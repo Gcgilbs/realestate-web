@@ -1,4 +1,3 @@
-Thanks for downloading!
+Thanks for viewing!
 
-Template Name: HomeSpace
 
